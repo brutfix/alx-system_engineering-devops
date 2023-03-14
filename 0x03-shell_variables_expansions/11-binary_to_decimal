@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($BINARY**3+$BINARY**2+$BINARY**1+$BINARY**0))
